@@ -1,0 +1,5 @@
+__pycache__/
+*.log
+shots/
+*.dta
+.DS_Store
