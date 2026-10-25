@@ -1,0 +1,60 @@
+{
+ "savings": {
+  "xgb_val_auc": 0.8272707241186673,
+  "best_depth": 5,
+  "min_child_weight": 5,
+  "best_iteration": 790,
+  "xgb_test": {
+   "auc": 0.8201884499467669,
+   "ap": 0.6295609322642217,
+   "brier": 0.13318228721618652
+  },
+  "xgb_test_weighted": {
+   "auc": 0.8164844695361007,
+   "ap": 0.6380875796438353,
+   "brier": 0.13611000663471745
+  },
+  "base_rate_weighted": 0.23836101678335436
+ },
+ "expense": {
+  "xgb_val_auc": 0.8445661140664176,
+  "best_depth": 5,
+  "min_child_weight": 5,
+  "best_iteration": 299,
+  "xgb_test": {
+   "auc": 0.8598922195911907,
+   "ap": 0.6610440780981427,
+   "brier": 0.10536827892065048
+  },
+  "xgb_test_weighted": {
+   "auc": 0.8461656448309556,
+   "ap": 0.6388737620864747,
+   "brier": 0.10943454659249245
+  },
+  "base_rate_weighted": 0.18420887878035164
+ },
+ "mlp": {
+  "epochs_run": 15,
+  "best_val_mean_auc": 0.8149228925250636,
+  "mlp_test_savings": {
+   "auc": 0.7944401211442849,
+   "ap": 0.5918928118081391,
+   "brier": 0.14133858680725098
+  },
+  "mlp_test_expense": {
+   "auc": 0.8331057669100981,
+   "ap": 0.6157592908854956,
+   "brier": 0.11550070345401764
+  },
+  "parameters": 18386
+ },
+ "sample": {
+  "total": 13994,
+  "modelling": 12863,
+  "train": 9004,
+  "val": 1929,
+  "test": 1930,
+  "dont_know_removed": 1131,
+  "n_inputs": 169
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "adults_represented": 8155637.000000002,
+ "respondents": 13994,
+ "modelling_sample": 12863,
+ "not_resilient_savings": 0.7616389832166457,
+ "not_resilient_savings_ci": [
+  0.7516940407003381,
+  0.7718892860344053
+ ],
+ "not_resilient_expense": 0.8157911212196484,
+ "not_resilient_expense_ci": [
+  0.8074304872914897,
+  0.82405251487441
+ ],
+ "fail_both": 0.6891291173255572,
+ "pass_both": 0.1116990128892633,
+ "emergency_fund": 0.20775238260234646
+}

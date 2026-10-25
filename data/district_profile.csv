@@ -1,0 +1,404 @@
+district,indicator,share
+Nyarugenge,Does not save at all,0.17022404112014491
+Nyarugenge,Saves via a bank,0.4438878559510301
+Nyarugenge,Saves via a SACCO,0.11224309259945925
+Nyarugenge,Saves via a savings group,0.3692895977068816
+Nyarugenge,Owns a mobile phone,0.8700992588328595
+Nyarugenge,Has internet access,0.35637192867961154
+Nyarugenge,Received VUP transfer,0.03690627921813495
+Nyarugenge,Income from farming,0.0882535787030876
+Nyarugenge,Income from piece work,0.183582281716393
+Nyarugenge,Household member lost job or income,0.10648156754133273
+Nyarugenge,Serious illness in household,0.21187083096024845
+Nyarugenge,Experienced drought or water scarcity,0.06619364367939491
+Nyarugenge,Experienced heavy rain or floods,0.2487833135768403
+Gasabo,Does not save at all,0.09851902307848481
+Gasabo,Saves via a bank,0.3445938292358524
+Gasabo,Saves via a SACCO,0.1550704318517264
+Gasabo,Saves via a savings group,0.40871700655735077
+Gasabo,Owns a mobile phone,0.8802603509792581
+Gasabo,Has internet access,0.4374546609846803
+Gasabo,Received VUP transfer,0.031200738799803764
+Gasabo,Income from farming,0.13256138958044494
+Gasabo,Income from piece work,0.25568712282736045
+Gasabo,Household member lost job or income,0.10858740043720605
+Gasabo,Serious illness in household,0.27155155776689854
+Gasabo,Experienced drought or water scarcity,0.1533307457801881
+Gasabo,Experienced heavy rain or floods,0.42778550300280244
+Kicukiro,Does not save at all,0.1622751927518798
+Kicukiro,Saves via a bank,0.3922030182737458
+Kicukiro,Saves via a SACCO,0.11435999138355085
+Kicukiro,Saves via a savings group,0.39287420614157487
+Kicukiro,Owns a mobile phone,0.8831877726387283
+Kicukiro,Has internet access,0.4703883484078357
+Kicukiro,Received VUP transfer,0.03879821594425569
+Kicukiro,Income from farming,0.1298802298002733
+Kicukiro,Income from piece work,0.16881322892910175
+Kicukiro,Household member lost job or income,0.11898242303687037
+Kicukiro,Serious illness in household,0.21295174211116696
+Kicukiro,Experienced drought or water scarcity,0.12850040670614818
+Kicukiro,Experienced heavy rain or floods,0.3131938382020771
+Nyanza,Does not save at all,0.14735057555808126
+Nyanza,Saves via a bank,0.08845054348216153
+Nyanza,Saves via a SACCO,0.11428037045735545
+Nyanza,Saves via a savings group,0.5923525788612874
+Nyanza,Owns a mobile phone,0.6364365013246254
+Nyanza,Has internet access,0.1460905446585467
+Nyanza,Received VUP transfer,0.09008926439547857
+Nyanza,Income from farming,0.3036295413985924
+Nyanza,Income from piece work,0.38714261873793737
+Nyanza,Household member lost job or income,0.08670254361483125
+Nyanza,Serious illness in household,0.4848521036221709
+Nyanza,Experienced drought or water scarcity,0.4781424358638364
+Nyanza,Experienced heavy rain or floods,0.784565743111527
+Gisagara,Does not save at all,0.22236329632078905
+Gisagara,Saves via a bank,0.08416865534394968
+Gisagara,Saves via a SACCO,0.12241170216861859
+Gisagara,Saves via a savings group,0.6366855864902801
+Gisagara,Owns a mobile phone,0.5019131258425594
+Gisagara,Has internet access,0.11862954728970233
+Gisagara,Received VUP transfer,0.09676646314562043
+Gisagara,Income from farming,0.23260020496098596
+Gisagara,Income from piece work,0.3073037337511046
+Gisagara,Household member lost job or income,0.054328228479485534
+Gisagara,Serious illness in household,0.23874139173831055
+Gisagara,Experienced drought or water scarcity,0.27096795537483287
+Gisagara,Experienced heavy rain or floods,0.6303412919807205
+Nyaruguru,Does not save at all,0.4691984995488758
+Nyaruguru,Saves via a bank,0.022685396098438875
+Nyaruguru,Saves via a SACCO,0.11737098375063691
+Nyaruguru,Saves via a savings group,0.4122778447807122
+Nyaruguru,Owns a mobile phone,0.4519455680509889
+Nyaruguru,Has internet access,0.04959034957659145
+Nyaruguru,Received VUP transfer,0.0698393899522603
+Nyaruguru,Income from farming,0.2848743754676295
+Nyaruguru,Income from piece work,0.3750516385536638
+Nyaruguru,Household member lost job or income,0.0862674683208597
+Nyaruguru,Serious illness in household,0.3291394068360489
+Nyaruguru,Experienced drought or water scarcity,0.17106073666684857
+Nyaruguru,Experienced heavy rain or floods,0.7479762821463594
+Huye,Does not save at all,0.300011988961421
+Huye,Saves via a bank,0.07903527047448257
+Huye,Saves via a SACCO,0.07992849106376769
+Huye,Saves via a savings group,0.5444063061604161
+Huye,Owns a mobile phone,0.5800041638722557
+Huye,Has internet access,0.11954008709968522
+Huye,Received VUP transfer,0.0985933602093763
+Huye,Income from farming,0.27711200808352027
+Huye,Income from piece work,0.5261076941054043
+Huye,Household member lost job or income,0.14549759862135325
+Huye,Serious illness in household,0.33789366091408213
+Huye,Experienced drought or water scarcity,0.11007141780619485
+Huye,Experienced heavy rain or floods,0.5494216256674246
+Nyamagabe,Does not save at all,0.15929855261456854
+Nyamagabe,Saves via a bank,0.07632508648168712
+Nyamagabe,Saves via a SACCO,0.10234757857607592
+Nyamagabe,Saves via a savings group,0.5713187559477979
+Nyamagabe,Owns a mobile phone,0.572623213014861
+Nyamagabe,Has internet access,0.10345743198574735
+Nyamagabe,Received VUP transfer,0.09893329862944315
+Nyamagabe,Income from farming,0.2882748185793715
+Nyamagabe,Income from piece work,0.499180439974401
+Nyamagabe,Household member lost job or income,0.21450851143790464
+Nyamagabe,Serious illness in household,0.578935260170483
+Nyamagabe,Experienced drought or water scarcity,0.24974322426702375
+Nyamagabe,Experienced heavy rain or floods,0.8957568830605995
+Ruhango,Does not save at all,0.12062896782585385
+Ruhango,Saves via a bank,0.11902601408769627
+Ruhango,Saves via a SACCO,0.15738399010517434
+Ruhango,Saves via a savings group,0.5835851281947884
+Ruhango,Owns a mobile phone,0.639004924602947
+Ruhango,Has internet access,0.1295747969149042
+Ruhango,Received VUP transfer,0.07286135538483203
+Ruhango,Income from farming,0.28101272929335713
+Ruhango,Income from piece work,0.4634005238976966
+Ruhango,Household member lost job or income,0.08964361849687061
+Ruhango,Serious illness in household,0.4721130087288298
+Ruhango,Experienced drought or water scarcity,0.5247226871776373
+Ruhango,Experienced heavy rain or floods,0.7779614606655952
+Muhanga,Does not save at all,0.13826712340841382
+Muhanga,Saves via a bank,0.08032779795509472
+Muhanga,Saves via a SACCO,0.11547930604869101
+Muhanga,Saves via a savings group,0.5268338887132258
+Muhanga,Owns a mobile phone,0.6811718840492277
+Muhanga,Has internet access,0.09838797166977094
+Muhanga,Received VUP transfer,0.06953138914690954
+Muhanga,Income from farming,0.27817512961714563
+Muhanga,Income from piece work,0.2938050305086203
+Muhanga,Household member lost job or income,0.07236887067256734
+Muhanga,Serious illness in household,0.2855978140044386
+Muhanga,Experienced drought or water scarcity,0.2075710447307817
+Muhanga,Experienced heavy rain or floods,0.4865850553655065
+Kamonyi,Does not save at all,0.15280333733072854
+Kamonyi,Saves via a bank,0.16605388812982505
+Kamonyi,Saves via a SACCO,0.18236356548640995
+Kamonyi,Saves via a savings group,0.5055339605876839
+Kamonyi,Owns a mobile phone,0.6905238625614041
+Kamonyi,Has internet access,0.20529590257469102
+Kamonyi,Received VUP transfer,0.035158165088936176
+Kamonyi,Income from farming,0.39848007155016535
+Kamonyi,Income from piece work,0.3878223924118116
+Kamonyi,Household member lost job or income,0.12957459084779874
+Kamonyi,Serious illness in household,0.24412891822623795
+Kamonyi,Experienced drought or water scarcity,0.1465276506231535
+Kamonyi,Experienced heavy rain or floods,0.3489215319041705
+Karongi,Does not save at all,0.21115410794779282
+Karongi,Saves via a bank,0.05034826427604906
+Karongi,Saves via a SACCO,0.1188555573520535
+Karongi,Saves via a savings group,0.619484055080943
+Karongi,Owns a mobile phone,0.5921579624416337
+Karongi,Has internet access,0.05730632647155969
+Karongi,Received VUP transfer,0.059797426803433654
+Karongi,Income from farming,0.2816012772978071
+Karongi,Income from piece work,0.43329846357849966
+Karongi,Household member lost job or income,0.03422525907957639
+Karongi,Serious illness in household,0.1976100145198525
+Karongi,Experienced drought or water scarcity,0.14064608596441422
+Karongi,Experienced heavy rain or floods,0.6545611992824447
+Rutsiro,Does not save at all,0.1487103137437361
+Rutsiro,Saves via a bank,0.050840578655403236
+Rutsiro,Saves via a SACCO,0.13519410357458064
+Rutsiro,Saves via a savings group,0.5780196895922555
+Rutsiro,Owns a mobile phone,0.5353566062983396
+Rutsiro,Has internet access,0.05369481201826328
+Rutsiro,Received VUP transfer,0.12363141777306105
+Rutsiro,Income from farming,0.31307232801068696
+Rutsiro,Income from piece work,0.48247615169955516
+Rutsiro,Household member lost job or income,0.12450181248187037
+Rutsiro,Serious illness in household,0.5682329268420238
+Rutsiro,Experienced drought or water scarcity,0.2072930100755004
+Rutsiro,Experienced heavy rain or floods,0.8334423451536077
+Rubavu,Does not save at all,0.24065838808447312
+Rubavu,Saves via a bank,0.1846245833124346
+Rubavu,Saves via a SACCO,0.120319006909261
+Rubavu,Saves via a savings group,0.4022485323024933
+Rubavu,Owns a mobile phone,0.6615769963330277
+Rubavu,Has internet access,0.10417445007585929
+Rubavu,Received VUP transfer,0.04566225199626657
+Rubavu,Income from farming,0.11648397620723316
+Rubavu,Income from piece work,0.4414901630455318
+Rubavu,Household member lost job or income,0.0996445221168237
+Rubavu,Serious illness in household,0.34608813693655915
+Rubavu,Experienced drought or water scarcity,0.2777987593178029
+Rubavu,Experienced heavy rain or floods,0.5164546738119696
+Nyabihu,Does not save at all,0.3413454660974069
+Nyabihu,Saves via a bank,0.0721370853691189
+Nyabihu,Saves via a SACCO,0.13613781150963458
+Nyabihu,Saves via a savings group,0.37383987080816883
+Nyabihu,Owns a mobile phone,0.6181874980200142
+Nyabihu,Has internet access,0.09414848300912866
+Nyabihu,Received VUP transfer,0.04619171747826618
+Nyabihu,Income from farming,0.29407595611932624
+Nyabihu,Income from piece work,0.45704614990463605
+Nyabihu,Household member lost job or income,0.057417345291752526
+Nyabihu,Serious illness in household,0.34018683541058736
+Nyabihu,Experienced drought or water scarcity,0.22933535966312957
+Nyabihu,Experienced heavy rain or floods,0.6545582918734916
+Ngororero,Does not save at all,0.4132053803618161
+Ngororero,Saves via a bank,0.05420261572749958
+Ngororero,Saves via a SACCO,0.15412612888124155
+Ngororero,Saves via a savings group,0.44025569110465024
+Ngororero,Owns a mobile phone,0.5828654854986461
+Ngororero,Has internet access,0.031036706327028592
+Ngororero,Received VUP transfer,0.12170557531486503
+Ngororero,Income from farming,0.26558430584228826
+Ngororero,Income from piece work,0.585172401551652
+Ngororero,Household member lost job or income,0.07083648220598675
+Ngororero,Serious illness in household,0.32176168875199906
+Ngororero,Experienced drought or water scarcity,0.2009433777484922
+Ngororero,Experienced heavy rain or floods,0.7817728516982354
+Rusizi,Does not save at all,0.2770832212317846
+Rusizi,Saves via a bank,0.1486914438975786
+Rusizi,Saves via a SACCO,0.15942299013442643
+Rusizi,Saves via a savings group,0.45345051469978637
+Rusizi,Owns a mobile phone,0.6984821677801869
+Rusizi,Has internet access,0.12904815903987224
+Rusizi,Received VUP transfer,0.06067838002578255
+Rusizi,Income from farming,0.24378391855926232
+Rusizi,Income from piece work,0.39174503144038486
+Rusizi,Household member lost job or income,0.06378503309752863
+Rusizi,Serious illness in household,0.4924556779312564
+Rusizi,Experienced drought or water scarcity,0.196034000584796
+Rusizi,Experienced heavy rain or floods,0.6084918326944188
+Nyamasheke,Does not save at all,0.16408516819951396
+Nyamasheke,Saves via a bank,0.060392643627581254
+Nyamasheke,Saves via a SACCO,0.17040324225105444
+Nyamasheke,Saves via a savings group,0.5339650854946648
+Nyamasheke,Owns a mobile phone,0.631699720157004
+Nyamasheke,Has internet access,0.07233455572445303
+Nyamasheke,Received VUP transfer,0.1323698912415239
+Nyamasheke,Income from farming,0.36070976544687067
+Nyamasheke,Income from piece work,0.44738562694759954
+Nyamasheke,Household member lost job or income,0.0703720652163295
+Nyamasheke,Serious illness in household,0.4497588412419769
+Nyamasheke,Experienced drought or water scarcity,0.2455922635378961
+Nyamasheke,Experienced heavy rain or floods,0.7753755974082244
+Rulindo,Does not save at all,0.26311834926384714
+Rulindo,Saves via a bank,0.07975111514080992
+Rulindo,Saves via a SACCO,0.23634585431968788
+Rulindo,Saves via a savings group,0.4215135596423448
+Rulindo,Owns a mobile phone,0.6661748121992942
+Rulindo,Has internet access,0.11676062808436616
+Rulindo,Received VUP transfer,0.05565543524316529
+Rulindo,Income from farming,0.24446706109883343
+Rulindo,Income from piece work,0.3907274255940805
+Rulindo,Household member lost job or income,0.0485586301278115
+Rulindo,Serious illness in household,0.3493009200976706
+Rulindo,Experienced drought or water scarcity,0.26738366443938455
+Rulindo,Experienced heavy rain or floods,0.7153619767555114
+Gakenke,Does not save at all,0.2793602951895075
+Gakenke,Saves via a bank,0.04904403849400022
+Gakenke,Saves via a SACCO,0.1400867897099151
+Gakenke,Saves via a savings group,0.5331591833743614
+Gakenke,Owns a mobile phone,0.5847043326129509
+Gakenke,Has internet access,0.06697713696117936
+Gakenke,Received VUP transfer,0.08417654209206356
+Gakenke,Income from farming,0.3425573321759208
+Gakenke,Income from piece work,0.41671902129372623
+Gakenke,Household member lost job or income,0.1288599328885557
+Gakenke,Serious illness in household,0.3048217121574738
+Gakenke,Experienced drought or water scarcity,0.0719036913750375
+Gakenke,Experienced heavy rain or floods,0.6039914407000159
+Musanze,Does not save at all,0.08206042521804233
+Musanze,Saves via a bank,0.16378837057267967
+Musanze,Saves via a SACCO,0.19617311027232096
+Musanze,Saves via a savings group,0.6353957736481236
+Musanze,Owns a mobile phone,0.7362059643155937
+Musanze,Has internet access,0.21880666039644725
+Musanze,Received VUP transfer,0.055366046438497074
+Musanze,Income from farming,0.22913080429662788
+Musanze,Income from piece work,0.46305853488203724
+Musanze,Household member lost job or income,0.1709951525005626
+Musanze,Serious illness in household,0.2914393609171711
+Musanze,Experienced drought or water scarcity,0.3650862976256606
+Musanze,Experienced heavy rain or floods,0.6380846578744118
+Burera,Does not save at all,0.2817111071838531
+Burera,Saves via a bank,0.05019055029289254
+Burera,Saves via a SACCO,0.18349234764981184
+Burera,Saves via a savings group,0.514862425921332
+Burera,Owns a mobile phone,0.6650691275624838
+Burera,Has internet access,0.11392092005847353
+Burera,Received VUP transfer,0.13332474490446625
+Burera,Income from farming,0.11571020599942028
+Burera,Income from piece work,0.4576263193777561
+Burera,Household member lost job or income,0.056382368542224684
+Burera,Serious illness in household,0.42198543711233505
+Burera,Experienced drought or water scarcity,0.11408727779537853
+Burera,Experienced heavy rain or floods,0.6849071736484085
+Gicumbi,Does not save at all,0.20897222084100908
+Gicumbi,Saves via a bank,0.03057409719711457
+Gicumbi,Saves via a SACCO,0.1888265286516659
+Gicumbi,Saves via a savings group,0.6120646543111061
+Gicumbi,Owns a mobile phone,0.5515209701285376
+Gicumbi,Has internet access,0.05560705984130348
+Gicumbi,Received VUP transfer,0.05484880790203764
+Gicumbi,Income from farming,0.1838483461061036
+Gicumbi,Income from piece work,0.46756336564620665
+Gicumbi,Household member lost job or income,0.03357992490605808
+Gicumbi,Serious illness in household,0.24699792215290792
+Gicumbi,Experienced drought or water scarcity,0.11877171628199112
+Gicumbi,Experienced heavy rain or floods,0.7527092502516588
+Rwamagana,Does not save at all,0.12989074164388872
+Rwamagana,Saves via a bank,0.13522071116186896
+Rwamagana,Saves via a SACCO,0.11955446574984115
+Rwamagana,Saves via a savings group,0.6095072210960947
+Rwamagana,Owns a mobile phone,0.7295743062411515
+Rwamagana,Has internet access,0.17474833222415412
+Rwamagana,Received VUP transfer,0.044693498653579355
+Rwamagana,Income from farming,0.21267877441050764
+Rwamagana,Income from piece work,0.43881263610166055
+Rwamagana,Household member lost job or income,0.07707899485072456
+Rwamagana,Serious illness in household,0.33983513746498256
+Rwamagana,Experienced drought or water scarcity,0.5337739944545351
+Rwamagana,Experienced heavy rain or floods,0.6048592875409968
+Nyagatare,Does not save at all,0.17616033941176973
+Nyagatare,Saves via a bank,0.08531168962138375
+Nyagatare,Saves via a SACCO,0.11156323890427598
+Nyagatare,Saves via a savings group,0.5165470215184597
+Nyagatare,Owns a mobile phone,0.659337460941113
+Nyagatare,Has internet access,0.07344800571368035
+Nyagatare,Received VUP transfer,0.06619530172747116
+Nyagatare,Income from farming,0.32561912734762155
+Nyagatare,Income from piece work,0.417373320288189
+Nyagatare,Household member lost job or income,0.03468534220571132
+Nyagatare,Serious illness in household,0.2211234051099748
+Nyagatare,Experienced drought or water scarcity,0.41201900570976674
+Nyagatare,Experienced heavy rain or floods,0.3550661387174448
+Gatsibo,Does not save at all,0.12012135267782842
+Gatsibo,Saves via a bank,0.08947473487240586
+Gatsibo,Saves via a SACCO,0.09381478628322015
+Gatsibo,Saves via a savings group,0.6678059646218709
+Gatsibo,Owns a mobile phone,0.645894505632133
+Gatsibo,Has internet access,0.1134521721052678
+Gatsibo,Received VUP transfer,0.04746673670601623
+Gatsibo,Income from farming,0.3814767986211309
+Gatsibo,Income from piece work,0.22584316390271553
+Gatsibo,Household member lost job or income,0.12596554063076312
+Gatsibo,Serious illness in household,0.38106961082675533
+Gatsibo,Experienced drought or water scarcity,0.5319497313958316
+Gatsibo,Experienced heavy rain or floods,0.46222720010904617
+Kayonza,Does not save at all,0.24751094232794082
+Kayonza,Saves via a bank,0.08694018184753606
+Kayonza,Saves via a SACCO,0.12996555754738354
+Kayonza,Saves via a savings group,0.5556978790563994
+Kayonza,Owns a mobile phone,0.578710904265666
+Kayonza,Has internet access,0.09899644777125434
+Kayonza,Received VUP transfer,0.0634939395805376
+Kayonza,Income from farming,0.17658395804985613
+Kayonza,Income from piece work,0.24258479304632313
+Kayonza,Household member lost job or income,0.030007795315764592
+Kayonza,Serious illness in household,0.25539666426296903
+Kayonza,Experienced drought or water scarcity,0.1771897389101167
+Kayonza,Experienced heavy rain or floods,0.25986085585466867
+Kirehe,Does not save at all,0.21826387153280954
+Kirehe,Saves via a bank,0.035932821691512
+Kirehe,Saves via a SACCO,0.1503843596401572
+Kirehe,Saves via a savings group,0.5890124364920285
+Kirehe,Owns a mobile phone,0.634274442384232
+Kirehe,Has internet access,0.13627536763248804
+Kirehe,Received VUP transfer,0.04718330477548695
+Kirehe,Income from farming,0.3090806498592401
+Kirehe,Income from piece work,0.3835900894441938
+Kirehe,Household member lost job or income,0.02563080193355659
+Kirehe,Serious illness in household,0.3677998744108416
+Kirehe,Experienced drought or water scarcity,0.28331396971669737
+Kirehe,Experienced heavy rain or floods,0.5613946593373146
+Ngoma,Does not save at all,0.3792367997531962
+Ngoma,Saves via a bank,0.07371602791002309
+Ngoma,Saves via a SACCO,0.1586442695822337
+Ngoma,Saves via a savings group,0.42396444508359554
+Ngoma,Owns a mobile phone,0.5706200806283113
+Ngoma,Has internet access,0.0530633916708818
+Ngoma,Received VUP transfer,0.05188550997601507
+Ngoma,Income from farming,0.25552833757025273
+Ngoma,Income from piece work,0.32796756124250687
+Ngoma,Household member lost job or income,0.041631027524705426
+Ngoma,Serious illness in household,0.2443624764134639
+Ngoma,Experienced drought or water scarcity,0.27197647732594027
+Ngoma,Experienced heavy rain or floods,0.7196362702124846
+Bugesera,Does not save at all,0.12204037156673628
+Bugesera,Saves via a bank,0.13239609972188862
+Bugesera,Saves via a SACCO,0.15662055804686575
+Bugesera,Saves via a savings group,0.6619290480124085
+Bugesera,Owns a mobile phone,0.7492346528909736
+Bugesera,Has internet access,0.15277096987205757
+Bugesera,Received VUP transfer,0.07531061594496617
+Bugesera,Income from farming,0.3837167344424345
+Bugesera,Income from piece work,0.40800864475047555
+Bugesera,Household member lost job or income,0.09736483351521957
+Bugesera,Serious illness in household,0.36892781230096244
+Bugesera,Experienced drought or water scarcity,0.42465739919138507
+Bugesera,Experienced heavy rain or floods,0.45852849837082593
+Rwanda,Does not save at all,0.20315269183230622
+Rwanda,Saves via a bank,0.1357215589183188
+Rwanda,Saves via a SACCO,0.14206728463757012
+Rwanda,Saves via a savings group,0.5177653808115551
+Rwanda,Owns a mobile phone,0.6692778911803816
+Rwanda,Has internet access,0.15945441690501044
+Rwanda,Received VUP transfer,0.06580430432775573
+Rwanda,Income from farming,0.25209937488307776
+Rwanda,Income from piece work,0.38025361534165936
+Rwanda,Household member lost job or income,0.08860609503604752
+Rwanda,Serious illness in household,0.3287513548759768
+Rwanda,Experienced drought or water scarcity,0.254748624870762
+Rwanda,Experienced heavy rain or floods,0.5679298638489892

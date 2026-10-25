@@ -1,0 +1,5 @@
+-r requirements.txt
+scikit-learn>=1.4
+pyreadstat>=1.2
+torch>=2.2
+tensorboard>=2.16
