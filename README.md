@@ -2,7 +2,7 @@
 
 **NISR 2026 Big Data Hackathon · Track 2: Financial Inclusion & Poverty Reduction · Team G29 (African Leadership University)**
 
-🔗 **Live app:** `<paste Streamlit link here>`  ·  🎬 **Demo video:** `demo/imarishield_demo.webm`
+🔗 **Live app:** `https://imarishield-g29.streamlit.app/`  ·  🎬 **Demo video:** `demo/imarishield_demo.webm`
 
 ## The problem
 Access to financial services is not the same as resilience. In FinScope Rwanda 2024, about **76%** of adults could not cover four weeks of essentials from savings and about **82%** would find raising RWF 56,000 within a month very difficult. Programmes need to know *where* these adults are, *who* they are, and *what is associated* with better outcomes.
